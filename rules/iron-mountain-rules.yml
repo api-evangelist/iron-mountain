@@ -1,0 +1,24 @@
+aid: iron-mountain
+name: Iron Mountain Rules
+description: >-
+  Governance and curation rules for tracking the Iron Mountain
+  records and information management company within the API Evangelist network.
+rules:
+  - name: Company Profile
+    description: Company entry without a documented public REST API.
+    conditions:
+      - Maintain accurate description of Iron Mountain services.
+      - Track website and support links under common properties.
+      - Use the records-management and information-management tags.
+  - name: API Discovery
+    description: Watch for any developer or partner APIs.
+    conditions:
+      - Monitor ironmountain.com for developer or partner programs.
+      - Add documented APIs to apis[] when discovered.
+      - Generate OpenAPI only from real published API documentation.
+  - name: Metadata Hygiene
+    description: Keep apis.yml metadata current and consistent.
+    conditions:
+      - Update modified date when content changes.
+      - Keep README.md aligned with apis.yml.
+      - Avoid placeholder or unrelated descriptive copy.
