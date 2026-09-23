@@ -1,7 +1,9 @@
 ---
 title: the crucial role of data in AI
 url: https://www.ironmountain.com/en-nz/about-us/newsroom/press-releases/2025/may/iron-mountain-insights-featured-on-mysecurity-marketplace-the-crucial-role-of-data-in-ai
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Iron Mountain" press release artificial intelligence'
 position: 1
 source: serpapi-google

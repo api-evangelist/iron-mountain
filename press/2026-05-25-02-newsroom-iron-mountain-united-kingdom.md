@@ -1,7 +1,9 @@
 ---
 title: Newsroom | Iron Mountain United Kingdom
 url: https://www.ironmountain.com/en-gb/about-us/newsroom
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Iron Mountain" press release artificial intelligence'
 position: 2
 source: serpapi-google
