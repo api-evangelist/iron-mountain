@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "iron-mountain",
+    "captured_at": "2026-10-11T190012",
+    "source_url": "https://www.ironmountain.com",
+    "source_type": "Website",
+    "file": "iron-mountain-2026-10-11T190012.png",
+    "bytes": 207134,
+    "capture": "playwright-local"
+  }
+]
